@@ -1,4 +1,4 @@
-# Machine-Learning-2---Ranking-to-Learn
+# Machine Learning 2: Learning to rank
 Use historical user search data to help optimize hotel rankings on Expedia
 
 ![alt text](https://github.com/sharonxuao/images/blob/master/001.jpg)
